@@ -1,0 +1,7 @@
+PERFORMANCE COMPARISON
+----------------------
+Original Time: 5.722401 seconds
+Optimized Time: 0.007529 seconds
+Original Memory: 0.46 KB
+Optimized Memory: 640.58 KB
+Improvement: 99.87%
